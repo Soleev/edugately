@@ -481,7 +481,7 @@
                                                                 href="/student/student.html">Personal cabinet</a>
                                                         </li>
                                                         <li class="mega-menu-title"><a
-                                                                href="/loginandregister/register.html">Sign in</a>
+                                                                href="/register">Register</a>
                                                         </li>
                                                     </ul>
                                                 </li>

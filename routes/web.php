@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('/en/index');
 });
+Route::get('/register', function () {
+    return view('/en/register');
+});
