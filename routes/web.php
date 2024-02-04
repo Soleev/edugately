@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/register', function () {
     return view('/en/register');
 });
+Route::get('/login', function () {
+    return view('/en/login');
+});

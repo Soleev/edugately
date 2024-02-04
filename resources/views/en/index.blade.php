@@ -478,7 +478,7 @@
                                                 <li>
                                                     <ul>
                                                         <li class="mega-menu-title"><a
-                                                                href="/student/student.html">Personal cabinet</a>
+                                                                href="/login">Personal cabinet</a>
                                                         </li>
                                                         <li class="mega-menu-title"><a
                                                                 href="/register">Register</a>
@@ -493,7 +493,7 @@
                         </div>
                     </div>
                     <div class="language-currency-wrap">
-                        <a href="loginandregister/login.html" class="btn btn-primary mr-10">login</a>
+                        <a href="/login" class="btn btn-primary mr-10">login</a>
                         <div class="same-language-currency language-style">
                             <span class="fs-7">EN <i class="fa fa-angle-down"></i></span>
                             <div class="lang-car-dropdown">
@@ -690,7 +690,7 @@
                 <p class="text-pr ">Educationally helps applicants to choose a profession, find <br> their direction
                     and
                     enter prestigious universities around the <br> world</p>
-                <a class="btn-header" href="/">Register now</a>
+                <a class="btn-header" href="/register">Register now</a>
             </div>
             <div class="col-12 col-md-5 d-flex align-items-start justify-content-end"><img
                     class="w-100 mt-5 mt-md-0" src="/assets/header1.png" alt=""></div>
@@ -1473,7 +1473,7 @@
             </div>
 
             <div class="row ">
-                <a href="#" class="btn-header mb-5">Register now</a>
+                <a href="/register" class="btn-header mb-5">Register now</a>
             </div>
         </div>
     </div>
@@ -1759,7 +1759,7 @@
                             </div>
                         </div>
                         <div class="col-4 footer-copyright justify-content-center copyright  d-none d-lg-flex">
-                            <p>© 2023 • All Rights Reserved</p>
+                            <p>© 2024 • All Rights Reserved</p>
                         </div>
                         <div class="col-4 footer-copyright social-meadia justify-content-end d-none d-lg-flex">
                             <a href="https://www.facebook.com/" target="_blank">
